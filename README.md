@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:clementmoisan16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://votre-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -39,7 +38,7 @@ Passionné par le développement d'applications et les écosystèmes SI / Cloud,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-07F58D?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-C15CFF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![API REST](https://img.shields.io/badge/API_REST-005596?style=for-the-badge&logo=http&logoColor=white)
 
 ### 🗄️ Bases de données
@@ -48,7 +47,7 @@ Passionné par le développement d'applications et les écosystèmes SI / Cloud,
 ### 🔧 Outils & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Salesforce DevOps Center](https://img.shields.io/badge/SF_DevOps_Center-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce DevOps Center](https://img.shields.io/badge/devdotto-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
