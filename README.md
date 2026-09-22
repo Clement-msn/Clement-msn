@@ -25,7 +25,7 @@ Passionné par le développement d'applications et les écosystèmes SI / Cloud,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WLanguage](https://img.shields.io/badge/WLanguage%20%2F%20WinDev-00599C?style=for-the-badge&logo=codeforces&logoColor=white)
+![WLanguage](https://img.shields.io/badge/WLanguage%20%2F%20WinDev-F5BB27?style=for-the-badge&logo=codeforces&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -39,7 +39,7 @@ Passionné par le développement d'applications et les écosystèmes SI / Cloud,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-07F58D?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![API REST](https://img.shields.io/badge/API_REST-005596?style=for-the-badge&logo=http&logoColor=white)
 
 ### 🗄️ Bases de données
