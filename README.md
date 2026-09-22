@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est [Votre Prénom / Pseudo] !
+# 👋 Bonjour, moi c'est [Clément / Clement-msn] !
 
 <p align="left">
   <a href="https://linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -71,5 +71,4 @@ Passionné(e) par le développement et les nouvelles technologies, j'aime concev
 ## 📫 Comment me contacter ?
 
 - **LinkedIn :** [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
-- **Email :** [votre.email@example.com](mailto:votre.email@example.com)
-- **Portfolio :** [votre-portfolio.com](https://votre-portfolio.com)
+- **Email :** [clementmoisan16@gmail.com](mailto:clementmoisan16@gmail.com)
